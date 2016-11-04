@@ -90,7 +90,7 @@
                     <li>
                         <div class="summary">
                             <div class="user-pic">
-                                <img src="/assets/img/avatar-1.png" alt="Slick Admin"/>
+                                <img src="/assets/admin/img/avatar-1.png" alt="Slick Admin"/>
                             </div>
                             <div class="basic-details">
                                 <h4 class="no-margin">Johnny</h4>

@@ -17,4 +17,12 @@ class ArticleController extends Controller
     {
         return View::make('admin.article.index');
     }
+
+    /**
+     * Add
+     */
+    public function add()
+    {
+        return View::make('admin.article.add');
+    }
 }

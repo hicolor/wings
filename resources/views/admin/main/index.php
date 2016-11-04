@@ -1,10 +1,5 @@
-<!doctype html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <title>Document</title>
-</head>
-<body>
-    index
-</body>
-</html>
+<?php include resource_path('views').'/admin/common/top.php'; ?>
+
+index
+
+<?php include resource_path('views').'/admin/common/bottom.php'; ?>

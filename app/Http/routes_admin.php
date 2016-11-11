@@ -12,10 +12,12 @@ Route::group(['namespace' => 'Admin\Common'], function () {
 
 });
 
-//
+//article
 Route::group(['namespace' => 'Admin\Article'], function () {
 
     Route::get('/admin/article', ['uses'=>'ArticleController@Index']);
     Route::get('/admin/article/add', ['uses'=>'ArticleController@Add']);
+
+    Route::get('admin/tag',['uses'=>'TagController@Index']);
 
 });

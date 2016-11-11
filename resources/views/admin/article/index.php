@@ -6,6 +6,16 @@
     }
 </style>
 <!-- Row start -->
+<div class="row page-title">
+    <h2>
+        <small>
+            <li><a href="">&emsp;文章</a></li>
+            <li>/</li>
+            <li><a href="">文章列表</a></li>
+        </small>
+    </h2>
+
+</div>
 <div class="row">
     <div class="col-md-4">
         <div class="widget">
@@ -20,6 +30,9 @@
             <select class="form-control" style="width: 20%;">
                 <option value="">.input-sm</option>
             </select>
+<!--            <button type="submit" class="btn btn-success btn-default">-->
+<!--                搜索-->
+<!--            </button>-->
         </div>
     </div>
 </div>

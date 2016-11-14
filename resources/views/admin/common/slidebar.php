@@ -6,7 +6,7 @@
     <div class="page-quick-sidebar">
         <ul class="nav nav-tabs">
             <li class="active">
-                <a href="javascript:;" data-target="#quick_sidebar_tab_1" data-toggle="tab"> Users
+                <a href="javascript:;" data-target="#quick_sidebar_tab_1" data-toggle="tab"> 导航菜单
                     <span class="badge badge-danger">2</span>
                 </a>
             </li>
@@ -56,6 +56,9 @@
                                 <span class="title">文章</span>
                             </div>
                         </li>
+                        <li>
+                            <a href="/admin/index" target="mainframe">aaa</a>
+                        </li>
                     </ul>
                     <h3 class="list-heading">Customers</h3>
                 </div>
@@ -68,7 +71,7 @@
                         <div class="page-quick-sidebar-chat-user-messages">
                             <div class="post out">
                                 <div class="message">
-                                    <a href="javascript:;" class="name">
+                                    <a href="/admin/index" class="name" target="mainframe">
                                         <i class="fa fa-tags"></i>
                                         <span class="title">文章分类</span>
                                     </a>

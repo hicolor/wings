@@ -47,7 +47,6 @@
     <script src="/assets/layouts/layout7/scripts/layout.min.js" type="text/javascript"></script>
     <script src="/assets/layouts/global/scripts/quick-sidebar.min.js" type="text/javascript"></script>
     <script src="/assets/layouts/global/scripts/quick-nav.min.js" type="text/javascript"></script>
-
-    <script src="/assets/global/plugins/jquery.rollbar.min.js" type="text/javascript"></script>
+    
 </head>
 <body>

@@ -1,31 +1,17 @@
 <?php include resource_path('views').'/admin/common/top.php'; ?>
-<style>
-    .rollbar-path-horizontal { height: 10px; background: rgba(255,255,255,0.2); }
-    .rollbar-path-vertical { width: 3px; background: rgba(255,255,255,0.2); }
-    .rollbar-path-vertical, .example .rollbar-path-horizontal {
-        box-shadow: none;
-        -moz-box-shadow: none;
-        -webkit-box-shadow: none;
-    }
-</style>
-
-<!--<script type="text/javascript">-->
-<!--    $(document).ready(function(){-->
-<!--        $('body').rollbar({zIndex:100});-->
-<!--    });-->
-<!--</script>-->
 
 <body class="page-container-bg-solid">
-
 
 <!--头部导航-->
 <?php include resource_path('views').'/admin/common/navbar.php'; ?>
 
+<?php include resource_path('views').'/admin/common/slidebar.php'; ?>
+
 <div class="clearfix"> </div>
 
-    <iframe src="/admin/index" scrolling="no" frameborder="0" style="overflow-x:hidden; min-height:2500px;width: 100%;" name="mainframe" id="mainframe"></iframe>
-
-<?php include resource_path('views').'/admin/common/slidebar.php'; ?>
+<div class="page-container page-content-inner page-container-bg-solid">
+    <iframe src="/admin/tag" scrolling="no" frameborder="0" style="overflow-x:hidden; width: 100%;" name="mainframe" id="mainframe"></iframe>
+</div>
 
 <!-- BEGIN FOOTER -->
 <div class="page-footer">
@@ -46,5 +32,12 @@
 <!-- END QUICK SIDEBAR TOGGLER -->
 
 </body>
+
+<script>
+    $("#mainframe").load(function () {
+        var mainheight = $(this).contents().find("body").height() + 30;
+        $(this).height(mainheight);
+    });
+</script>
 
 <?php include resource_path('views').'/admin/common/bottom.php'; ?>

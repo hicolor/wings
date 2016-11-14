@@ -35,7 +35,7 @@
         <!-- END NAV TRIGGER -->
         <!-- BEGIN LOGO -->
         <div class="page-logo">
-            <a href="index.html">
+            <a href="/admin/index" target="mainframe">
                 <img src="/assets/layouts/layout7/img/logo.png" alt="logo" class="logo-default" /> </a>
         </div>
         <!-- END LOGO -->

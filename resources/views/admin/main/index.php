@@ -1,7 +1,7 @@
 <?php include resource_path('views').'/admin/common/top.php'; ?>
 
 <!-- BEGIN CONTAINER -->
-<div class="page-container page-content-inner page-container-bg-solid">
+
     <!-- BEGIN BREADCRUMBS -->
     <!-- Remove "hide" class from "breadcrumbs hide" DIV and "margin-top-30" class from below "container-fluid container-lf-space margin-top-30" DIV in order to use the page breadcrumbs -->
     <div class="breadcrumbs hide">
@@ -1036,7 +1036,6 @@
         <!-- END PAGE BASE CONTENT -->
     </div>
     <!-- END CONTENT -->
-</div>
 <!-- END CONTAINER -->
 
 <?php include resource_path('views').'/admin/common/bottom.php'; ?>

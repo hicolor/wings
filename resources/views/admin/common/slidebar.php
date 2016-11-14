@@ -56,9 +56,6 @@
                                 <span class="title">文章</span>
                             </div>
                         </li>
-                        <li>
-                            <a href="/admin/index" target="mainframe">aaa</a>
-                        </li>
                     </ul>
                     <h3 class="list-heading">Customers</h3>
                 </div>
@@ -71,7 +68,7 @@
                         <div class="page-quick-sidebar-chat-user-messages">
                             <div class="post out">
                                 <div class="message">
-                                    <a href="/admin/index" class="name" target="mainframe">
+                                    <a href="/admin/index" target="mainframe" class="name">
                                         <i class="fa fa-tags"></i>
                                         <span class="title">文章分类</span>
                                     </a>

@@ -10,11 +10,11 @@
     <link href="/assets/global/plugins/bootstrap/css/bootstrap.min.css" rel="stylesheet" type="text/css" />
     <link href="/assets/global/plugins/bootstrap-switch/css/bootstrap-switch.min.css" rel="stylesheet" type="text/css" />
 
-    <link href="../assets/global/plugins/morris/morris.css" rel="stylesheet" type="text/css" />
-    <link href="../assets/global/plugins/mapplic/mapplic/mapplic.css" rel="stylesheet" type="text/css" />
+    <link href="/assets/global/plugins/morris/morris.css" rel="stylesheet" type="text/css" />
+    <link href="/assets/global/plugins/mapplic/mapplic/mapplic.css" rel="stylesheet" type="text/css" />
 
-    <link href="../assets/global/css/components.min.css" rel="stylesheet" id="style_components" type="text/css" />
-    <link href="../assets/global/css/plugins.min.css" rel="stylesheet" type="text/css" />
+    <link href="/assets/global/css/components.min.css" rel="stylesheet" id="style_components" type="text/css" />
+    <link href="/assets/global/css/plugins.min.css" rel="stylesheet" type="text/css" />
 
     <link href="/assets/layouts/layout7/css/layout.min.css" rel="stylesheet" type="text/css" />
     <link href="/assets/layouts/layout7/css/custom.min.css" rel="stylesheet" type="text/css" />
@@ -47,6 +47,6 @@
     <script src="/assets/layouts/layout7/scripts/layout.min.js" type="text/javascript"></script>
     <script src="/assets/layouts/global/scripts/quick-sidebar.min.js" type="text/javascript"></script>
     <script src="/assets/layouts/global/scripts/quick-nav.min.js" type="text/javascript"></script>
-    
+
 </head>
 <body>

@@ -68,7 +68,7 @@
                         <div class="page-quick-sidebar-chat-user-messages">
                             <div class="post out">
                                 <div class="message">
-                                    <a href="/admin/index" target="mainframe" class="name">
+                                    <a href="/admin/tag" target="mainframe">
                                         <i class="fa fa-tags"></i>
                                         <span class="title">文章分类</span>
                                     </a>

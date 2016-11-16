@@ -16,16 +16,14 @@
     <link href="/assets/global/css/components.min.css" rel="stylesheet" id="style_components" type="text/css" />
     <link href="/assets/global/css/plugins.min.css" rel="stylesheet" type="text/css" />
 
-    <link href="/assets/layouts/layout7/css/layout.min.css" rel="stylesheet" type="text/css" />
-    <link href="/assets/layouts/layout7/css/custom.min.css" rel="stylesheet" type="text/css" />
-    <link rel="stylesheet" href="/assets/global/css/jquery.rollbar.css">
-    <link rel="shortcut icon" href="favicon.ico" />
+    <link href="/assets/layouts/layout7/css/layout.css" rel="stylesheet" type="text/css" />
+    <link href="/assets/layouts/layout7/css/custom.css" rel="stylesheet" type="text/css" />
 
     <script src="/assets/global/plugins/jquery.min.js" type="text/javascript"></script>
     <script src="/assets/global/plugins/bootstrap/js/bootstrap.min.js" type="text/javascript"></script>
     <script src="/assets/global/plugins/js.cookie.min.js" type="text/javascript"></script>
     <script src="/assets/global/plugins/jquery-slimscroll/jquery.slimscroll.min.js" type="text/javascript"></script>
-    <script src="/assets/global/plugins/jquery.blockui.min.js" type="text/javascript"></script>
+<!--    <script src="/assets/global/plugins/jquery.blockui.min.js" type="text/javascript"></script>-->
     <script src="/assets/global/plugins/bootstrap-switch/js/bootstrap-switch.min.js" type="text/javascript"></script>
     <!-- END CORE PLUGINS -->
     <!-- BEGIN PAGE LEVEL PLUGINS -->
@@ -44,9 +42,9 @@
 
     <script src="/assets/pages/scripts/dashboard.min.js" type="text/javascript"></script>
 
-    <script src="/assets/layouts/layout7/scripts/layout.min.js" type="text/javascript"></script>
-    <script src="/assets/layouts/global/scripts/quick-sidebar.min.js" type="text/javascript"></script>
-    <script src="/assets/layouts/global/scripts/quick-nav.min.js" type="text/javascript"></script>
+    <script src="/assets/layouts/layout7/scripts/layout.js" type="text/javascript"></script>
+    <script src="/assets/layouts/global/scripts/quick-sidebar.js" type="text/javascript"></script>
+    <script src="/assets/layouts/global/scripts/quick-nav.js" type="text/javascript"></script>
 
 </head>
 <body>

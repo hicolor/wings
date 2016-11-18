@@ -9,8 +9,11 @@
 
 <div class="clearfix"> </div>
 
-<iframe src="/admin/index" scrolling="no" frameborder="0" style="overflow-x:hidden; width: 100%;" name="mainframe" id="mainframe"></iframe>
-
+<!-- BEGIN CONTAINER -->
+<div class="page-container page-content-inner page-container-bg-solid">
+    <iframe src="/admin/index" scrolling="no" frameborder="0" style="overflow-x:hidden; width: 100%;" name="mainframe" id="mainframe"></iframe>
+</div>
+<!-- END CONTAINER -->
 
 <!-- BEGIN FOOTER -->
 <div class="page-footer">

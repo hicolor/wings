@@ -18,6 +18,7 @@ Route::group(['namespace' => 'Admin\Article'], function () {
     Route::get('/admin/article', ['uses'=>'ArticleController@Index']);
     Route::get('/admin/article/add', ['uses'=>'ArticleController@Add']);
 
-    Route::get('admin/tag',['uses'=>'TagController@Index']);
-
+    Route::get('admin/articlecategory',['as'=>'admin-article-category','uses'=>'TagController@Index']);
+    Route::any('admin/articlecategory/add',['uses'=>'TagController@CategoryAdd']);
+    Route::any('admin/articlecategory/edit',['uses'=>'TagController@CategoryEdit']);
 });

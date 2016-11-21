@@ -554,7 +554,7 @@
                         <div class="scroller" style="height: 350px;" data-always-visible="1" data-rail-visible1="0" data-handle-color="#D7DCE2">
                             <div class="widget-media">
                                 <div class="widget-media-elements text-center">
-                                    <img class="widget-media-avatar circle margin-bottom-15" src="/assets/pages/media/users/avatar1.jpg" alt="">
+                                    <img class="widget-media-avatar circle margin-bottom-15" src="" alt="">
                                     <a class="widget-btn-default circle" href="#">Follow</a>
                                 </div>
                                 <div class="widget-media-body">
@@ -571,7 +571,7 @@
                             </div>
                             <div class="widget-media">
                                 <div class="widget-media-elements text-center">
-                                    <img class="widget-media-avatar circle margin-bottom-15" src="/assets/pages/media/users/avatar6.jpg" alt="">
+                                    <img class="widget-media-avatar circle margin-bottom-15" src="" alt="">
                                     <a class="widget-btn-default circle" href="#">Follow</a>
                                 </div>
                                 <div class="widget-media-body">
@@ -588,7 +588,7 @@
                             </div>
                             <div class="widget-media">
                                 <div class="widget-media-elements text-center">
-                                    <img class="widget-media-avatar circle margin-bottom-15" src="/assets/pages/media/users/avatar5.jpg" alt="">
+                                    <img class="widget-media-avatar circle margin-bottom-15" src="" alt="">
                                     <a class="widget-btn-default circle" href="#">Follow</a>
                                 </div>
                                 <div class="widget-media-body">
@@ -605,7 +605,7 @@
                             </div>
                             <div class="widget-media">
                                 <div class="widget-media-elements text-center">
-                                    <img class="widget-media-avatar circle margin-bottom-15" src="/assets/pages/media/users/avatar4.jpg" alt="">
+                                    <img class="widget-media-avatar circle margin-bottom-15" src="" alt="">
                                     <a class="widget-btn-default circle" href="#">Follow</a>
                                 </div>
                                 <div class="widget-media-body">
@@ -622,7 +622,7 @@
                             </div>
                             <div class="widget-media">
                                 <div class="widget-media-elements text-center">
-                                    <img class="widget-media-avatar circle margin-bottom-15" src="/assets/pages/media/users/avatar5.jpg" alt="">
+                                    <img class="widget-media-avatar circle margin-bottom-15" src="" alt="">
                                     <a class="widget-btn-default circle" href="#">Follow</a>
                                 </div>
                                 <div class="widget-media-body">
@@ -639,7 +639,7 @@
                             </div>
                             <div class="widget-media">
                                 <div class="widget-media-elements text-center">
-                                    <img class="widget-media-avatar circle margin-bottom-15" src="/assets/pages/media/users/avatar4.jpg" alt="">
+                                    <img class="widget-media-avatar circle margin-bottom-15" src="" alt="">
                                     <a class="widget-btn-default circle" href="#">Follow</a>
                                 </div>
                                 <div class="widget-media-body">
@@ -656,7 +656,7 @@
                             </div>
                             <div class="widget-media">
                                 <div class="widget-media-elements text-center">
-                                    <img class="widget-media-avatar circle margin-bottom-15" src="/assets/pages/media/users/avatar11.jpg" alt="">
+                                    <img class="widget-media-avatar circle margin-bottom-15" src="" alt="">
                                     <a class="widget-btn-default circle" href="#">Follow</a>
                                 </div>
                                 <div class="widget-media-body">

@@ -25,7 +25,9 @@
     <script src="/assets/global/plugins/jquery-slimscroll/jquery.slimscroll.min.js" type="text/javascript"></script>
 <!--    <script src="/assets/global/plugins/jquery.blockui.min.js" type="text/javascript"></script>-->
     <script src="/assets/global/plugins/bootstrap-switch/js/bootstrap-switch.min.js" type="text/javascript"></script>
+    <script src="/assets/global/plugins/bootbox/bootbox.min.js"></script>
     <!-- END CORE PLUGINS -->
+    <script src="/assets/pages/scripts/ui-bootbox.js" type="text/javascript"></script>
     <!-- BEGIN PAGE LEVEL PLUGINS -->
     <script src="/assets/global/plugins/morris/morris.min.js" type="text/javascript"></script>
     <script src="/assets/global/plugins/morris/raphael-min.js" type="text/javascript"></script>
